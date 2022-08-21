@@ -1,6 +1,6 @@
 # Sort Algo
 
-Visualize sorting algorithms to see how they work. 
+Its a visualizer for sorting algorithms to see how they work with real values. It's implemented with React.js, some minimal material UI, and sorting algorithms in Javascript.
 
 
 ## Getting Started
